@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1046210431339",
+    "firebase_url": "https://inventario-7344e-default-rtdb.firebaseio.com",
+    "project_id": "inventario-7344e",
+    "storage_bucket": "inventario-7344e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046210431339:android:3c972a363bbcaaab03e42e",
+        "android_client_info": {
+          "package_name": "com.example.practica_inventario"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDjT_TDxCnlGBZF279n_x-X8E15vBnUqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
